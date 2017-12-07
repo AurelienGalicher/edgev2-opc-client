@@ -11,7 +11,7 @@ This project is using partial classes to split up the plumbing for connecting to
 - Opc-Relates.cs contains the infrastructure code for connecting to the device
 - Module.cs contains the code to connect to the Edge message queues and custom logic would go here.
 
-To have a simple scenario up and running this template is listening on incoming IoT Edge messages under `input1`. You can for instance use the Temperature Sensor from the Azure IoT Edge Tutorials to pump data into it. Further it is preconficured to talk with the sample opc-ua-server from this repository.
+To have a simple scenario up and running this template is listening on incoming IoT Edge messages under `input1`. You can for instance use the Temperature Sensor from the [Azure IoT Edge Tutorials](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-simulate-device-linux) to pump data into it. Further it is preconficured to talk with the sample opc-ua-server from this [repository](https://github.com/dariuszparys/iotedgev2-opc-ua-module).
 
 ## Module Twin Properties
 
