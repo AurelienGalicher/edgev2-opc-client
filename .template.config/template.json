@@ -1,0 +1,8 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Dariusz Parys",
+    "classifications": [ "Console" ],
+    "identity": "DariuszParys.OPC.IotEdgeModule.CSharp",
+    "name": "Azure IoT Edge OPC-UA Module (Client)",
+    "shortName": "aziotedgeopcmodule"
+}
